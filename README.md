@@ -1,0 +1,1 @@
+Create word , rearrange letters to create meaningful word to get score - in the game.
